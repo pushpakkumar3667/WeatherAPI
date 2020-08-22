@@ -1,0 +1,19 @@
+{
+    "india":[
+        {
+        "name": "punjab",
+        "pin": "1122",
+        "capital":"chandigarh"
+        },
+        {
+            "name": "u.p",
+            "pin": "1123",
+            "capital":"lakhnow"
+        },
+        {
+            "name": "bihar",
+            "pin": "1133",
+            "capital":"patna"
+        }
+    ]
+}

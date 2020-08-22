@@ -1,0 +1,42 @@
+*
+{
+    margin:0px auto;
+    padding:0px auto;
+    font-family: sans-serif;
+}
+header
+{
+    background-image: linear-gradient(rgba(0,0,0,0.5), rgba(0,0,0,0.5)),url(img1.jpg);
+    height: 100vh;
+    background-size: cover;
+    background-position:center;
+
+}
+.brand
+{
+    position: relative;
+    height: 100px;
+    width: 100px;
+    left: -40%;
+}
+.serch
+{
+    padding: 10px 10px 10px 10px;
+    margin-top: 30px;
+    height: 30px;
+    border-radius: 100px;
+    width: 200px;
+}
+.box
+{
+    height:500px;
+    
+    background-color:whitesmoke;
+    z-index: 20px;
+    opacity: 60%;
+}
+.tempcolour
+{
+    color: teal;
+    font-weight: bold;
+}
